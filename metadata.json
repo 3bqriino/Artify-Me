@@ -1,0 +1,5 @@
+{
+  "name": "Artify Me - Stylized Portrait Generator",
+  "description": "An application to generate new images or transform existing ones into a unique, stylized graphic novel art style using AI.",
+  "requestFramePermissions": []
+}
